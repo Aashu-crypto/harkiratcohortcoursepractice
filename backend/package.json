@@ -1,5 +1,5 @@
 {
-  "name": "harkiratcohortcoursepractice",
+  "name": "todo-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.1.0"
+    "zod": "^3.22.4"
   }
 }
